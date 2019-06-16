@@ -34,7 +34,7 @@ English version goes [here](README.md).
 
 ### 快速开始
 
-#### 使用`arthas-boot`(推荐)
+#### 使用`arthas-boot`(推荐) 
 
 下载`arthas-boot.jar`，然后用`java -jar`的方式启动：
 
